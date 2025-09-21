@@ -6,7 +6,7 @@
 🎯 I'm driven to deepen my expertise in software development and contribute to open-source projects.<br/>
 🌍 Making vedios about Computer Science, tech, and productivity on [Instagram](https://www.instagram.com/mr_rahmonqul/)<br/>
 🌟 Currently improving my backend and learning about SCSS/SASS on YouTube.<br/>
-📬 Check out my projects below or reach out to me on [https://www.linkedin.com/in/rahmonqul-qoraboyev-587ab4370/] to collaborate or just chat about tech!
+📬 Check out my projects below or reach out to me on [LinkiDin](https://www.linkedin.com/in/rahmonqul-qoraboyev-587ab4370/) to collaborate or just chat about tech!
 
 ---
 
